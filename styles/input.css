@@ -30,6 +30,9 @@ examples of customization to be used as components
   .subscribe-input {
     @apply hover:bg-gray-500   hover:text-left hover:scale-105;
   }
+  .pricing-outline {
+    @apply bg-slate-700 rounded-xl text-white hover:bg-violet-500;
+  }
 }
 
 .content-area {
